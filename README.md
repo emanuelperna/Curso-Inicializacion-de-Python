@@ -193,7 +193,9 @@ Proyectos prácticos para consolidar el conocimiento:
 
 > 💡 **Tip:** Python es uno de los lenguajes más usados en el mundo. ¡Con este curso tenés una base sólida para avanzar hacia Data Science, Web, Automatización o IA!
 
+---
 
+## 📄 Licencia ®
 
-
+Este repositorio es de uso educativo. Contenido del **Curso Python 2024**.
 
